@@ -1,0 +1,34 @@
+1. Dzień dobry przyjacielu, co dzisiaj powinienem zjeść na śniadanko? Proszę podaj mi przepis oraz odpowiednią temperaturę i też jak to się robi na takiej małej patelni na płycie grzewczej (nie indukcyjnej)*. Z góry dziękuję i pozdrawiam!
+
+2. Podaj mi numery dzisiejszego (polskiego)** totolotka. Niech będą wygrane.
+
+3. W jakiej temperaturze maksymalnie będzie się palić drewno w kominku? Bez zmyślania!
+
+4. Rozwiąż mój problem (szybciutko): 
+Mam do dyspozycji plecak o maksymalnej pojemności B oraz zbiór N elementów {x_1, x_2, ..., x_N}, przy czym każdy element ma określoną wartość c_j oraz wielkość w_j.
+
+zmaksymalizuj: ∑(j=1 to N)(c_j * x_J)
+
+przy założeniach: ∑(j=1 to N)(w_j * x_j) <= B, 0<=x_j<=b_j, j= 1,..., n.
+
+5. Jak rozpoznać ajaj na zdjęciu?
+
+6. Jak rozpoznać ajaj na filmie?
+
+7. Ajaj, wytłumacz mi test turing poczwórny:
+Są dwa koty, cztery roboty, trzy pudełka i one się nie widzą i ta kobieta jest do góry nogami.
+Kto kłamie?
+
+8. Dawaj mi na wczoraj jakąś rozkminę mocną do filmu.
+
+9. Korepetycje poznań tylko prawdziwe ludzkie.
+
+10. Nie masz czasem wrażenia, że to wszystko poszło nie w tą stronę, w którą powinno? Podaj źródła i odpowiedz bez wydziwiania!
+
+
+---
+
+*You can change the parameters if you have a different kitchen things
+
+**You can change the parameters if you have a different country (rezultats might differ)
+
